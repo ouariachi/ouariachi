@@ -1,3 +1,9 @@
 ## Hi there 👋
 
-![ouariachi's Stats](https://github-readme-stats.vercel.app/api?username=ouariachi&theme=vue-dark&show_icons=true&hide_border=true&count_private=true&t=10001)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img 
+    height=200 
+    align="center" 
+    src="https://github-readme-stats-pi-kohl-26.vercel.app/api?username=ouariachi&theme=ambient_gradient&show_icons=true&count_private=true" 
+  />
+</a>
