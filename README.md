@@ -7,3 +7,5 @@
     src="https://github-readme-stats-pi-kohl-26.vercel.app/api?username=ouariachi&theme=ambient_gradient&show_icons=true&count_private=true" 
   />
 </a>
+
+<!-- Update: 28/05/2025 - 22:00 Madrid -->
